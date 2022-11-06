@@ -1,0 +1,4 @@
+body {
+  /* webpackIgnore: true */
+  background-color: url(bg.png);
+}
